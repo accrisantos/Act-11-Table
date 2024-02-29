@@ -17,3 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+- 
+## Links de referencia 
+-https://blog.logrocket.com/flutter-tabbar-a-complete-tutorial-with-examples/
+-https://fonts.google.com/icons?selected=Material+Icons:beach_access:&icon.query=beach&icon.platform=flutter
